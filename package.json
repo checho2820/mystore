@@ -1,0 +1,14 @@
+{
+  "name": "mystore",
+  "version": "1.0.0",
+  "description": "Virtual store for my bussiness\u001b[D\u001b[D\u001b[D\u001b[D\u001b[00\u001b[C\u001b[Ciness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Gomez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
